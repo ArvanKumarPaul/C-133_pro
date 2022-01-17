@@ -1,0 +1,27 @@
+body {
+
+    background: linear-gradient(130deg, rgba(238,12,138,1) 0%, rgba(191,134,171,1) 48%, rgba(191,134,171,1) 50%, rgba(191,134,171,1) 52%, rgba(0,69,255,1) 100%);
+
+}
+
+#navigating_h3 {
+
+  background-color: white;
+  border-radius: 30px;
+  width: 25%;
+  font-size: 23px;
+
+}
+
+#navigating_h3:hover {
+
+    background-color: black;
+    border-radius: 30px;
+    width: 25%;
+    cursor: pointer;
+    color:white;
+    transition: 0.7s;
+    box-shadow: 5px 5px 38px black;
+    text-decoration: none;
+  
+  }
